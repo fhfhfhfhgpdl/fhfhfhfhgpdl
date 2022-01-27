@@ -12,7 +12,13 @@ README.md
 <a href="mailto:tastywaffle1717@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail address-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/>  
 ***
 ##### Task
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/HTML5n-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> 
   
 ***
 #### Project
