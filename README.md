@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-ffffff?style=social&logo=Instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-000000?style=social&logo=Instagram&logoColor=E4405F"/></a>
 <!--
 **fhfhfhfhgpdl/fhfhfhfhgpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
