@@ -1,11 +1,11 @@
 README.md
 ===========
 #### Park eunseo
-#### developer | designer
-
+#### developer | designer  
+***  
 ##### SNS
-<a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-000000?style=social&logo=Instagram&logoColor=E4405F"/>
-<a href="https://www.facebook.com/profile.php?id=100024801134439" target="_blank"><img src="https://img.shields.io/badge/Facebook @박은서-000000?style=social&logo=Facebook&logoColor=1877F2"/>
+<a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-000000?style=social&logo=Instagram&logoColor=E4405F"/>  
+<a href="https://www.facebook.com/profile.php?id=100024801134439" target="_blank"><img src="https://img.shields.io/badge/Facebook @박은서-000000?style=social&logo=Facebook&logoColor=1877F2"/>  
 <!--
 **fhfhfhfhgpdl/fhfhfhfhgpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
