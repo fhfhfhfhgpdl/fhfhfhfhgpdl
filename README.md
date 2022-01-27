@@ -1,4 +1,4 @@
-<center>README.md
+README.md
 ===========
 #### Park eunseo
 #### developer | designer  
@@ -25,7 +25,7 @@
 ### Project
   
   
-  </center>
+ 
 <!--
 **fhfhfhfhgpdl/fhfhfhfhgpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
