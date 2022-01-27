@@ -10,6 +10,12 @@ README.md
 ##### Mail  
 <a href="mailto:dimi_pes0107@dimigo.hs.kr" target="_blank"><img src="https://img.shields.io/badge/School email address-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/>  
 <a href="mailto:tastywaffle1717@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail address-FFFFFF?style=flat-square&logo=Gmail&logoColor=EA4335"/>  
+***
+##### Task
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  
+***
+#### Project
 <!--
 **fhfhfhfhgpdl/fhfhfhfhgpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
