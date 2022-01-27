@@ -1,4 +1,8 @@
-### Hi 👋
+안녕하세요!
+===========
+
+### developer | designer
+
 
 <a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-000000?style=social&logo=Instagram&logoColor=E4405F"/></a>
 <!--
