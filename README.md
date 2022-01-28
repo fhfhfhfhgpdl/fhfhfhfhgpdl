@@ -3,14 +3,18 @@
 #### Park eunseo
 #### developer | designer  
 ***  
-##### SNS  
+##### <div align=center>SNS</div>
+<div align=center>
 <a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-000000?style=social&logo=Instagram&logoColor=E4405F"/>
 <a href="https://www.facebook.com/profile.php?id=100024801134439" target="_blank"><img src="https://img.shields.io/badge/Facebook @박은서-000000?style=social&logo=Facebook&logoColor=1877F2"/>  
-***
-##### Mail  
+<div/>  
+***  
+  ##### <div align=center>Mail</div>
+  <div align=center>
 <a href="mailto:dimi_pes0107@dimigo.hs.kr" target="_blank"><img src="https://img.shields.io/badge/School email address-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/>
-<a href="mailto:tastywaffle1717@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail address-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/>  
-***
+<a href="mailto:tastywaffle1717@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail address-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/> 
+  </div>
+***  
   ##### <div align=center>Task</div>
   <div align=center>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -23,7 +27,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
   </div>
   
-***
+***  
 ### Project
   
 
