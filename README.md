@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=fhfhfhfhgpdl's%20ReadMe!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=fhfhfhfhgpdl's%20ReadMe!&fontSize=50&animation=fadeIn&fontAlign=100)
 ========
 
 #### Park eunseo
