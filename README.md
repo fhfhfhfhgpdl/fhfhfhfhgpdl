@@ -1,5 +1,4 @@
-<p align="center">hi
-  ========</p>
+<p align="center"><h1>hi</h1></p>
 
 #### Park eunseo
 #### developer | designer  
