@@ -1,4 +1,4 @@
-<div align=center>hi</div>
+<center>hi</center>
 ===========
 #### Park eunseo
 #### developer | designer  
