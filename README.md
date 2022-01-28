@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=hi i'm eun seo%20&fontSize=50&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=hi%20&fontSize=50&animation=fadeIn&fontAlign=70)
 <h1>Hi there!👋</h1>
 
 #### Park eunseo | @tastywaffle
