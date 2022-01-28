@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=fhfhfhfhgpdl's%20ReadMe!&fontSize=50&animation=fadeIn&fontAlign=70)
 ========
 
-#### Park eunseo
+#### Park eunseo | fhfhfhfhgpdl | @tastywaffle
 #### developer | designer  
 ***  
 
