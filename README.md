@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20&fontSize=50&animation=fadeIn&fontAlign=70)
-<h1>hi</h1>
+<h1>Hi there!👋</h1>
 
 #### Park eunseo | fhfhfhfhgpdl | @tastywaffle
 #### developer | designer  
@@ -29,6 +29,7 @@
 
 ***  
 ### Belong to...
+  
   
 ***  
 ### Project
