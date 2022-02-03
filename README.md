@@ -29,7 +29,8 @@
 
 ***  
 ### Belong to...
-<font size="2em" color="green">Korea Digital Media High School E-business 20th</font>
+*Korea Digital Media High School E-business 20th*<br>
+  
 ***
 ### Interested
   
