@@ -29,8 +29,7 @@
 
 ***  
 ### Belong to...
-***Korea Digital Media High School E-business 20th***  
-  ***#IMPLUDE***
+***Korea Digital Media High School E-business 20th***
 ***
 ### Interested
   
