@@ -35,6 +35,9 @@
   
 ***  
 ### Project
+
+  ***
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfhfhfhgpdl)](https://github.com/fhfhfhfhgpdl/github-readme-stats)
   
 
 
