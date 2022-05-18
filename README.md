@@ -32,13 +32,26 @@
 
 ***  
 ### Belong to...
-***Korea Digital Media High School E-business 20th***
+***Korea Digital Media High School E-business 20th***  
+  <br>
+***#IMPLUDE*** 
+  >Developer & Designer  
+  >(Former) Discording Team  
+  
+***MRMR(무럭무럭)***  
+  >Deverlopers Team Leader & Manager  
+  >Green-MRMR Team Leader    
+  >Eco-MRMR Team Leader & Manager  
+  
 ***
 ### Interested
   
 ***  
 ### Project
-
+***세대를 연결하다, Gen-Link***  
+***Eco-MRMR(Web)***  
+  
+  
   ***
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfhfhfhgpdl)](https://github.com/fhfhfhfhgpdl/github-readme-stats)
   
