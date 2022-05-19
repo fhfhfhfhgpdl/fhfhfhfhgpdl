@@ -40,7 +40,7 @@
   >(Former) Discording Team  
   
 ***MRMR(무럭무럭)***  
-  >Deverlopers Team Leader & Manager  
+  >Deverlopment Team Leader & Manager  
   >Green-MRMR Team Leader    
   >Eco-MRMR Team Leader & Manager  
   
