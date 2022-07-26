@@ -37,7 +37,6 @@
   <br>
 ***#IMPLUDE*** 
   >Developer & Designer  
-  >(Former) Discording Team  
   
 ***MRMR(무럭무럭)***  
   >Deverlopment Team Leader & Manager  
