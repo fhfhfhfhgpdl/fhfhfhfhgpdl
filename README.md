@@ -7,7 +7,8 @@
 
 <h3>SNS</h3>  
 <a href="https://www.instagram.com/tastywaffle/" target="_blank"><img src="https://img.shields.io/badge/instagram @tastywaffle-000000?style=social&logo=Instagram&logoColor=E4405F"/><br>
-<a href="https://www.facebook.com/profile.php?id=100024801134439" target="_blank"><img src="https://img.shields.io/badge/Facebook @박은서-000000?style=social&logo=Facebook&logoColor=1877F2"/>  
+<a href="https://www.facebook.com/profile.php?id=100024801134439" target="_blank"><img src="https://img.shields.io/badge/Facebook @박은서-000000?style=social&logo=Facebook&logoColor=1877F2"/>  <br/>
+<a href="https://velog.io/@fhfhfhfhgpdl" target="_blank"><img src="https://img.shields.io/badge/Velog @tastywaffle-FFFFFF?style=flat-social&logo=Velog&logoColor=20C997"/><br>
 
 ---  
   
