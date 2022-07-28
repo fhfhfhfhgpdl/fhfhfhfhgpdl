@@ -2,7 +2,7 @@
 <h1>Hi there!👋</h1>
 
 #### Park eunseo | @tastywaffle
-#### developer | designer  
+#### Developer | Designer | PM  
 ***  
 
 <h3>SNS</h3>  
@@ -50,8 +50,12 @@
 ***  
 ### Project
 ***세대를 연결하다, Gen-Link***  
-  <br>
+  <br/>
 ***Eco-MRMR(Web)***  
+  <br><br>
+***relayWriting-이야기 이어쓰기***
+  
+<a href="https://onesto.re/0000764160" target="_blank"><img src="https://img.shields.io/badge/Download At OneStore-EE2E5A?style=for-the-badge&logo=&logoColor=20C997"/><br><a href="" target="_blank"><img src="https://img.shields.io/badge/Download At Google Play Store-414141?style=for-the-badge&logo=Google Play&logoColor=FFFFFF"/><br>
   
   
   ***
